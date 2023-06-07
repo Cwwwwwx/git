@@ -9,4 +9,5 @@
 int main()
 {
     std::cout << "Hello World";
+    std::cout << "main test";
 }
