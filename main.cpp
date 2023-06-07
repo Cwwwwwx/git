@@ -10,4 +10,6 @@ int main()
 {
     std::cout << "Hello World";
     std::cout << "git test!";
+    std::cout << "main test";
 }
+
